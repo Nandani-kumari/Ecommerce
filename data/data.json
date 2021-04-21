@@ -1,0 +1,35 @@
+{
+	"mobiles":[
+		{
+			"name":"Nokia 7.2",
+			"image":"img/1.jpg",
+			"original_price":16000,
+			"price":14000
+
+
+		},{
+			"name":"Samsung A30",
+			"image":"img/2.jpg",
+			"original_price":15000,
+			"price":12000
+
+		},{
+			"name":"Redmi note9",
+			"image":"img/3.jpg",
+			"original_price":18000,
+			"price":15000
+
+		},{
+			"name":"Oppo oneplus",
+			"image":"img/4.jpg",
+			"original_price":25000,
+			"price":22000
+
+		},{
+			"name":"Apple Se",
+			"image":"img/5.jpg",
+			"original_price":17000,
+			"price":13000
+		}
+	]
+}
